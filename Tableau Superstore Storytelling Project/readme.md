@@ -1,4 +1,4 @@
-Sprint 5 Project Links
+Sprint 5 - Tableau Superstore Storytelling Project Links
 
 Link to Workbook on Tableau Public: https://public.tableau.com/views/Sprint5Projectv1/Story1Final?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link 
 
