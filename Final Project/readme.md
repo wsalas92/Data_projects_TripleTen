@@ -1,4 +1,4 @@
-# Final Project Links
+# Final Project
 
 ## Project Summary
 
