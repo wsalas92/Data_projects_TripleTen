@@ -7,3 +7,5 @@ In this project, I reviewed the landscape of apps using a Shopify dataset to fig
   Part 2 - Using DAX expressions to calculate the average nubmer of helpful reviews and ratings based on if a developer had replied to reviews. 
 
   Part 3 - Creating bar charts to show the sum of ratings of each developer, the average helpful ratings of each developer, and the most responsive developers for highly reviewed apps (over 500 reviews).
+
+Screenshots of the project are included in the repo as the full .PIBX file is larger than 100mb - can send upon request.
