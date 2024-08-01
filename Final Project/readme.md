@@ -16,6 +16,12 @@ Creation of a dashboard in Tableau Public following the decomposition plan to in
 
 Documenting the project in a final report. This final report contained an executive summary, the methodology and documentation of data cleanup, interpretation of the findings, and recommendations for Zomato to improve their business offerings for restaurants included in the dataset.
 
+### Final Recommendations
+
+- Western restaurant brands (like Domino’s, KFC, and Subway) are leading in individual sales amounts (over ₹9M)
+- May be of interest to focus on encouraging growth in Chinese cuisine and expanding Western offerings.
+- By keeping average costs between ₹265 and ₹339, customers will be most likely torate their purchases over 3.5.
+
 ### Other Links
 
 Link to Workbook on Tableau Public: https://public.tableau.com/views/FinalProjectv3_17193772950610/AnalysisofZomatoRestaurantData?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
