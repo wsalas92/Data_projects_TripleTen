@@ -1,4 +1,4 @@
-s# Project Summary
+# Project Summary
 
 In this project, I performed an analysis using a dataset from a store to gain insights on what was the cause of customer returns and how to reduce the volume of returned orders. The aim of this project was to investigate the nature of the returns, create a dashboard to monitor returns, and a final presentation to the CEO on my analysis. 
 
