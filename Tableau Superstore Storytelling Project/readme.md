@@ -20,6 +20,10 @@ A final presentation was created going through my my analysis of returns. In the
 - A Q4 spike in the return rate may indicate high levels of returns around the holiday season
 - Investigate further into the top 10 customers returning items - either through a survey or individual contact.
 
+### Video Presentation
+
+[![Video Snapshot](https://github.com/user-attachments/assets/2e1d0885-2be1-4957-a692-22f7ba10db8e)](https://drive.google.com/file/d/1f-FEzAvvdppjJg5sm7BmNBIFi0zu25ab/view?usp=drive_link)
+
 ## Other Links
 
 Link to Workbook on Tableau Public: https://public.tableau.com/views/Sprint5Projectv1/Story1Final?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link 
